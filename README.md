@@ -7,7 +7,7 @@ This repository explores advanced **Retrieval-Augmented Generation (RAG)** techn
 
 ## Features Explored
 1. **Router Query Engine** - Implements intelligent query routing across different data sources for optimized information retrieval. 
-
+ 
 ![image](https://github.com/user-attachments/assets/424415ce-c111-4526-a961-16739ec0e4e2)
    
 3. **Tool Calling** - Enables the agent to call external tools dynamically to augment reasoning and enhance responses.
