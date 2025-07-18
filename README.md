@@ -1,6 +1,6 @@
 # Agentic RAG with LlamaIndex 
 
-![image](https://github.com/user-attachments/assets/e4af9798-a0e9-41cc-9a23-0cefa4f4b51a)
+![image](https://github.com/user-attachments/assets/e4af9798-a0e9-41cc-9a23-0cefa4f4b51a) 
 
 ## Overview
 This repository explores advanced **Retrieval-Augmented Generation (RAG)** techniques using **LlamaIndex**. We delve into agentic capabilities to enhance reasoning, tool usage, and multi-document inference. The project showcases various RAG implementations with agents that can reason over structured and unstructured data sources.
