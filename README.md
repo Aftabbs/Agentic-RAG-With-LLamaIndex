@@ -20,7 +20,7 @@ This repository explores advanced **Retrieval-Augmented Generation (RAG)** techn
 ## Data Sources
 - **Metagpt.pdf**: Acts as a structured knowledge base for agent inference.
 - **Research Papers**: A collection of 11 papers covering RAG, fine-tuning, and advanced retrieval mechanisms.
-
+ 
 ## Technologies Used
 - **LlamaIndex**: Core library for RAG implementation.
 - **LangChain**: Used for orchestration and agent reasoning.
