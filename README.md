@@ -5,7 +5,7 @@
 ## Overview 
 This repository explores advanced **Retrieval-Augmented Generation (RAG)** techniques using **LlamaIndex**. We delve into agentic capabilities to enhance reasoning, tool usage, and multi-document inference. The project showcases various RAG implementations with agents that can reason over structured and unstructured data sources.
  
-## Features Explored  
+## Features Explored   
 1. **Router Query Engine** - Implements intelligent query routing across different data sources for optimized information retrieval.  
  
 ![image](https://github.com/user-attachments/assets/424415ce-c111-4526-a961-16739ec0e4e2)
