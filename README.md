@@ -1,5 +1,5 @@
 # Agentic RAG with LlamaIndex    
-
+    
 ![image](https://github.com/user-attachments/assets/e4af9798-a0e9-41cc-9a23-0cefa4f4b51a) 
   
 ## Overview      
